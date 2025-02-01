@@ -12,7 +12,7 @@ Customer reviews play a crucial role in decision-making for both businesses and 
 ✅ Evaluates performance with accuracy metrics and hyperparameter tuning  
 
 ## **Technologies Used**  
-- **Python 3.10**  
+- **Python 3.9**  
 - **Jupyter Notebook**  
 - **NLTK (Natural Language Toolkit)** for text preprocessing  
 - **Scikit-learn** for machine learning algorithms  
